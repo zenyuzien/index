@@ -1,0 +1,65 @@
+parish,fips_code,pca_category_manual,rank_category_proper_ties,rurality_class,dci_index,sovi_index
+Acadia,22001,Medium,Medium,Rural,91.2918660287081,0.8832
+Allen,22003,Medium,Low,Rural,90.5263157894737,0.903
+Ascension,22005,Very Low,Low,Partially Rural,11.1961722488038,0.384
+Assumption,22007,High,High,Rural,85.8373205741627,0.7296
+Avoyelles,22009,High,High,Rural,96.7464114832536,0.9682
+Beauregard,22011,Low,Very Low,Rural,54.6092503987241,0.5498
+Bienville,22013,Very High,Very High,Rural,96.6188197767145,0.9755
+Bossier,22015,Low,Low,Urban,43.317384370016,0.7773
+Caddo,22017,Low,Medium,Urban,86.7304625199362,0.9329
+Calcasieu,22019,Low,Low,Urban,76.0765550239234,0.7149
+Caldwell,22021,Medium,Medium,Rural,81.2121212121212,0.9052
+Cameron,22023,Medium,Medium,Rural,56.3955342902711,0.2984
+Catahoula,22025,Very High,Very High,Rural,94.9282296650718,0.8581
+Claiborne,22027,Very High,Very High,Rural,99.9043062200957,0.8069
+Concordia,22029,High,High,Rural,95.9489633173844,0.9949
+De Soto,22031,Medium,High,Partially Rural,73.0781499202552,0.8101
+East Baton Rouge,22033,Low,Low,Urban,61.5311004784689,0.846
+East Carroll,22035,High,Medium,Rural,99.9362041467305,0.8781
+East Feliciana,22037,Low,Low,Rural,65.518341307815,0.5937
+Evangeline,22039,Medium,Medium,Rural,95.1834130781499,0.999
+Franklin,22041,Medium,Medium,Rural,93.2695374800638,0.8053
+Grant,22043,Very High,High,Rural,57.7671451355662,0.7219
+Iberia,22045,Medium,High,Partially Rural,92.2488038277512,0.936
+Iberville,22047,Medium,Medium,Partially Rural,92.6315789473684,0.8501
+Jackson,22049,High,High,Rural,80.6698564593301,0.8301
+Jefferson,22051,Low,Low,Urban,56.140350877193,0.8295
+Jefferson Davis,22053,Medium,Medium,Rural,74.5454545454545,0.5549
+LaSalle,22059,Low,Very Low,Rural,66.0606060606061,0.4648
+Lafayette,22055,Low,Low,Urban,43.3811802232855,0.735
+Lafourche,22057,Low,Medium,Partially Rural,65.9011164274322,0.7416
+Lincoln,22061,Medium,Medium,Rural,78.5964912280702,0.7786
+Livingston,22063,Low,Medium,Partially Rural,28.3572567783094,0.4709
+Madison,22065,Very High,Very High,Rural,99.2025518341308,1.0
+Morehouse,22067,High,High,Rural,95.1196172248804,0.9558
+Natchitoches,22069,Medium,Medium,Rural,83.732057416268,0.9281
+Orleans,22071,Low,Medium,Urban,73.2057416267943,0.8381
+Ouachita,22073,Medium,Medium,Urban,77.6076555023923,0.8845
+Plaquemines,22075,Medium,Medium,Partially Rural,59.4896331738437,0.651
+Pointe Coupee,22077,Medium,Medium,Rural,76.2041467304625,0.7127
+Rapides,22079,Medium,Medium,Urban,72.822966507177,0.9071
+Red River,22081,Medium,Low,Rural,95.9489633173844,0.6662
+Richland,22083,Medium,Medium,Rural,87.7830940988836,0.8632
+Sabine,22085,High,High,Rural,93.237639553429,0.8848
+St. Bernard,22087,Low,High,Urban,67.0813397129187,0.9026
+St. Charles,22089,Very Low,Very Low,Urban,29.792663476874,0.4451
+St. Helena,22091,High,High,Rural,86.5390749601276,0.9478
+St. James,22093,Low,Very Low,Rural,41.4673046251994,0.2701
+St. John the Baptist,22095,Low,Low,Urban,77.1610845295056,0.7152
+St. Landry,22097,Medium,Medium,Rural,94.9601275917065,0.9262
+St. Martin,22099,Medium,High,Partially Rural,80.1594896331738,0.7041
+St. Mary,22101,Medium,High,Rural,94.0031897926635,0.9109
+St. Tammany,22103,Low,Low,Urban,17.799043062201,0.4868
+Tangipahoa,22105,Low,Low,Partially Rural,59.7767145135566,0.8651
+Tensas,22107,Very High,Very High,Rural,95.2472089314195,0.8454
+Terrebonne,22109,Medium,Medium,Partially Rural,78.3094098883573,0.7821
+Union,22111,High,High,Rural,77.384370015949,0.8724
+Vermilion,22113,Medium,Medium,Rural,75.1834130781499,0.7875
+Vernon,22115,Medium,Low,Rural,71.03668261563,0.832
+Washington,22117,Medium,High,Rural,89.5693779904306,0.9822
+Webster,22119,High,High,Rural,94.5773524720893,0.8775
+West Baton Rouge,22121,Low,Low,Urban,56.2998405103668,0.6341
+West Carroll,22123,Medium,Low,Rural,88.6124401913876,0.6325
+West Feliciana,22125,Low,Low,Rural,45.7416267942584,0.4668
+Winn,22127,Medium,Low,Rural,96.0127591706539,0.7401

@@ -1,0 +1,65 @@
+parish,equal_weight_rank_average_category,rotated_pca_category,vulnerability_svi_category,distress_dci_category,rurality_class
+Acadia,Medium,Medium,Medium,High,Rural
+Allen,Low,Medium,Medium,Medium,Rural
+Ascension,Low,Very Low,Very Low,Very Low,Partially Rural
+Assumption,High,High,Medium,Medium,Rural
+Avoyelles,High,High,High,High,Rural
+Beauregard,Very Low,Low,Low,Low,Rural
+Bienville,High,Very High,High,High,Rural
+Bossier,Low,Low,Medium,Very Low,Urban
+Caddo,Medium,Medium,High,Medium,Urban
+Calcasieu,Low,Low,Medium,Medium,Urban
+Caldwell,Medium,Medium,Medium,Medium,Rural
+Cameron,Medium,Medium,Very Low,Low,Rural
+Catahoula,Very High,Very High,Medium,High,Rural
+Claiborne,Very High,Very High,Medium,High,Rural
+Concordia,High,High,High,High,Rural
+De Soto,High,Medium,Medium,Medium,Partially Rural
+East Baton Rouge,Low,Low,Medium,Medium,Urban
+East Carroll,Medium,High,Medium,High,Rural
+East Feliciana,Low,Medium,Low,Medium,Rural
+Evangeline,Medium,Medium,High,High,Rural
+Franklin,Medium,Medium,Medium,High,Rural
+Grant,High,Very High,Medium,Low,Rural
+Iberia,Medium,Medium,High,High,Partially Rural
+Iberville,Medium,Medium,Medium,High,Partially Rural
+Jackson,High,High,Medium,Medium,Rural
+Jefferson,Medium,Low,Medium,Low,Urban
+Jefferson Davis,Medium,Medium,Low,Medium,Rural
+LaSalle,Very Low,Low,Very Low,Medium,Rural
+Lafayette,Low,Low,Medium,Very Low,Urban
+Lafourche,Medium,Medium,Medium,Medium,Partially Rural
+Lincoln,Medium,Medium,Medium,Medium,Rural
+Livingston,Medium,Low,Very Low,Very Low,Partially Rural
+Madison,Very High,Very High,High,High,Rural
+Morehouse,High,High,High,High,Rural
+Natchitoches,Medium,Medium,High,Medium,Rural
+Orleans,Medium,Low,Medium,Medium,Urban
+Ouachita,Medium,Medium,Medium,Medium,Urban
+Plaquemines,Medium,Medium,Medium,Medium,Partially Rural
+Pointe Coupee,Medium,Medium,Medium,Medium,Rural
+Rapides,Medium,Medium,High,Medium,Urban
+Red River,Low,Medium,Medium,High,Rural
+Richland,Medium,Medium,Medium,Medium,Rural
+Sabine,High,High,Medium,High,Rural
+St. Bernard,High,Low,Medium,Medium,Urban
+St. Charles,Very Low,Very Low,Very Low,Very Low,Urban
+St. Helena,High,High,High,Medium,Rural
+St. James,Very Low,Low,Very Low,Very Low,Rural
+St. John the Baptist,Low,Low,Medium,Medium,Urban
+St. Landry,Medium,Medium,High,High,Rural
+St. Martin,Medium,Medium,Medium,Medium,Partially Rural
+St. Mary,Medium,Medium,High,High,Rural
+St. Tammany,Low,Low,Very Low,Very Low,Urban
+Tangipahoa,Low,Medium,Medium,Medium,Partially Rural
+Tensas,Very High,Very High,Medium,High,Rural
+Terrebonne,Medium,Medium,Medium,Medium,Partially Rural
+Union,High,High,Medium,Medium,Rural
+Vermilion,Medium,Medium,Medium,Medium,Rural
+Vernon,Medium,Medium,Medium,Medium,Rural
+Washington,High,Medium,High,Medium,Rural
+Webster,High,High,Medium,High,Rural
+West Baton Rouge,Low,Medium,Low,Low,Urban
+West Carroll,Medium,Medium,Low,Medium,Rural
+West Feliciana,Low,Medium,Very Low,Low,Rural
+Winn,Low,Medium,Medium,High,Rural
